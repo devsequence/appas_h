@@ -85,6 +85,8 @@
     right: 14rem;
     top: 50%;
     transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: column;
     li{
       width: 10px;
       height: 10px;

@@ -6,6 +6,7 @@
     .container{
       display: flex;
       justify-content: center;
+      flex-wrap: wrap;
     }
   }
   &-wrap{
@@ -30,6 +31,7 @@
   &-accordion{
     margin-top: 180px;
     padding: 0 15px;
+    max-width: 1000px;
   }
 }
 .accordion{
